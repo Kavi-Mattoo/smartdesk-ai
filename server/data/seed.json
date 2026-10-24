@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SD-1001",
+    "subject": "Unable to reset password",
+    "customer": "Aarav Sharma",
+    "email": "aarav@example.com",
+    "category": "Account",
+    "priority": "High",
+    "status": "Open",
+    "description": "The password reset link expires before I can use it.",
+    "createdAt": "2026-10-22T10:30:00.000Z",
+    "updatedAt": "2026-10-22T10:30:00.000Z"
+  },
+  {
+    "id": "SD-1002",
+    "subject": "Payment charged twice",
+    "customer": "Meera Kapoor",
+    "email": "meera@example.com",
+    "category": "Billing",
+    "priority": "Urgent",
+    "status": "In Progress",
+    "description": "I see two charges for the same order on my card.",
+    "createdAt": "2026-10-22T12:10:00.000Z",
+    "updatedAt": "2026-10-22T14:05:00.000Z"
+  },
+  {
+    "id": "SD-1003",
+    "subject": "Feature request: dark mode",
+    "customer": "Kabir Singh",
+    "email": "kabir@example.com",
+    "category": "Feature Request",
+    "priority": "Low",
+    "status": "Resolved",
+    "description": "It would be helpful to have a dark theme in the dashboard.",
+    "createdAt": "2026-10-21T08:45:00.000Z",
+    "updatedAt": "2026-10-22T09:00:00.000Z"
+  },
+  {
+    "id": "SD-1004",
+    "subject": "App crashes when exporting a report",
+    "customer": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "category": "Technical",
+    "priority": "High",
+    "status": "Open",
+    "description": "Every time I click Export as CSV the page freezes and then shows a blank screen. I am using Chrome on Windows.",
+    "createdAt": "2026-10-23T06:20:00.000Z",
+    "updatedAt": "2026-10-23T06:20:00.000Z"
+  },
+  {
+    "id": "SD-1005",
+    "subject": "Invoice shows the wrong company name",
+    "customer": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "category": "Billing",
+    "priority": "Medium",
+    "status": "In Progress",
+    "description": "The invoice for September lists our old company name. Please reissue it with the updated legal name.",
+    "createdAt": "2026-10-20T15:40:00.000Z",
+    "updatedAt": "2026-10-21T11:15:00.000Z"
+  },
+  {
+    "id": "SD-1006",
+    "subject": "Cannot update profile photo",
+    "customer": "Ananya Iyer",
+    "email": "ananya.iyer@example.com",
+    "category": "Account",
+    "priority": "Low",
+    "status": "Resolved",
+    "description": "The upload button does nothing when I choose a PNG file larger than 2 MB.",
+    "createdAt": "2026-10-19T09:05:00.000Z",
+    "updatedAt": "2026-10-20T10:30:00.000Z"
+  }
+]
